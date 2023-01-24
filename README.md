@@ -4,4 +4,4 @@
 
 
 ## Explanation of the code 🙃:
-https://github.com/Conper/Three-in-a-row/wiki/Explanation-of-the-code
+[How does it work?](https://github.com/Conper/Three-in-a-row/wiki/Explanation-of-the-code)
