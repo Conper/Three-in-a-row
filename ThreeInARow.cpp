@@ -58,7 +58,6 @@ int play(){
     char t;
     string winner = win();
     if (winner == " "){
-        bool selected;
         preview();
         while (turns > 0){
             if (turns % 2 == 0){
